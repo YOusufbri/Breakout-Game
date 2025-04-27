@@ -1,0 +1,40 @@
+
+
+.text-center{
+    text-align:center;
+
+}
+.mx-auto {
+    margin: auto;
+}
+.bg-red {
+    background: red;
+}
+button {
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.flex{
+    display: flex;
+}
+.felx-cal{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+.row {
+    margin: 8px 0;
+}
+.row input {
+    width: 246px;
+    font-size: 18px;
+    margin: 0px;
+    padding: 9px 28px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
